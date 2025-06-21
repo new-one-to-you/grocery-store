@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Basmati Rice",
+        "mrp": 120,
+        "price": 95,
+        "image": "rice.jpg"
+    },
+    {
+        "name": "Groundnut Oil",
+        "mrp": 180,
+        "price": 150,
+        "image": "oil.jpg"
+    },
+    {
+        "name": "Sugar",
+        "mrp": 50,
+        "price": 42,
+        "image": "sugar.jpg"
+    }
+]
